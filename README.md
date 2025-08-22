@@ -1,4 +1,4 @@
-# Hi, I'm KibutuJR 👋
+# Hi, I'm Kibutu 👋
 
 **Data Analyst • Data Engineer • Software Engineer**  
 I build intelligent, scalable systems and data products that turn raw data into decisions.
