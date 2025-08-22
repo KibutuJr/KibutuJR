@@ -35,6 +35,6 @@ Java · Python · React · Node.js · Next.js · Tailwind CSS · Git/GitHub · R
 
 <div align="center">
 
-### ✨ INSIGHT-DRIVEN. SYSTEM-BUILT. CODE-CRAFTED. ✨  
+###  INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED •  
 
 </div>
