@@ -5,10 +5,6 @@ I build intelligent, scalable systems and data products that turn raw data into 
 
 ---
 
-![Cool People](https://komarev.com/ghpvc/?username=KibutuJr&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ## 🔗 Connect with Me  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kibutujr.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kibutu/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codegnerdev) [![Twitter](https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KibutuJR)  
@@ -34,6 +30,10 @@ ETL/ELT Pipelines · Data Warehousing · Data Modeling · Workflow Automation ·
 
 ### 🔹 Software Engineering  
 Java · Python · React · Node.js · Next.js · Tailwind CSS · Git/GitHub · REST APIs · C++
+
+---
+
+![Cool People](https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat)
 
 ---
 
