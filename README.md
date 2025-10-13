@@ -90,30 +90,6 @@
 
   <br><br>
 
-  <samp>
-    <b>$ echo "</b>
-    <span class="typed-text">Thanks for visiting 👋</span>
-    <b>"</b>
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%24+echo+%22Thanks+for+visiting+👋%22" alt="Typing animation">
 
 </div>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-.typed-text {
-  display: inline-block;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid #00BFFF;
-  width: 0;
-  animation: typing 2.5s steps(30, end) forwards, blink .75s step-end infinite;
-}
-</style>
