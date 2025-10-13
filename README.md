@@ -72,15 +72,19 @@
    INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED  
 </h3>
 
-<p align="center">
-  <a href="https://kibutujr.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+<div align="center">
+
+  <a href="https://kibutujr.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Visit My Website"
+    />
   </a>
-</p>
 
-<p align="center">
-  <samp>$ echo "Thanks for visiting 👋"</samp>
-</p>
+  <br><br>
 
+  <samp><b>$ echo "</b>Thanks for visiting 👋<b>"</b></samp>
+
+</div>
 
 
