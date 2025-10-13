@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <strong>Data Analyst • Data Engineer • Software Engineer</strong><br>
-  Turning <em>raw data</em> into <strong>real-world impact</strong> through intelligence, automation, and design.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ever+since+I+was+young%2C+I+wanted+to+transform+unstructured+data+into+actionable+business+insights." alt="Typing Animation" />
+  </a>
 </p>
 
 ---
