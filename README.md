@@ -55,41 +55,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60" alt="Divider">
-</p>
-
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KibutuJr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJr&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
----
-
 <h3 align="center">
   INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED  
 </h3>
 
-<div align="center">
-
-  <a href="https://kibutujr.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Visit My Website">
+<p align="center">
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
+</p>
 
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%24+echo+%22Thanks+for+visiting+👋%22" alt="Typing animation">
-
-</div>
+<p align="center">
+  <samp>$ echo "Thanks for visiting 👋"</samp>
+</p>
