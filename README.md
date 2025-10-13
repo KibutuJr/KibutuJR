@@ -3,18 +3,13 @@
   Hi, I'm <span style="color:#00BFFF;">KibutuJR</span> 👨‍💻
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ever+since+I+was+young%2C+I+wanted+to+transform+unstructured+data+into+actionable+business+insights." 
-      alt="Typing Animation"
-    />
-  </a>
+<p align="center" style="font-size: 1.1rem; line-height: 1.6; animation: fadeIn 2s ease-in-out; color: #e0e0e0;">
+  <strong>Ever since I was young, I wanted to transform unstructured data into actionable business insights.</strong>
 </p>
 
 <style>
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
+  from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
 }
 </style>
