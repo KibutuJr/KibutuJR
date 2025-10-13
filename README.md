@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center" style="font-size: 1.1rem; line-height: 1.6; animation: fadeIn 2s ease-in-out; color: #e0e0e0;">
-  <strong>Ever since I was young, I wanted to transform unstructured data into actionable business insights!</strong>
+  <strong>Ever since I was young, I've always wanted to transform unstructured data into actionable business insights! 😊</strong>
 </p>
-
 ---
 
 <p align="center">
