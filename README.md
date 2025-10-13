@@ -1,44 +1,72 @@
-# Hi, I'm Kibutu 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Kibutu</span></h1>
 
-**Data Analyst • Data Engineer • Software Engineer**  
-I build intelligent, scalable systems and data products that turn raw data into decisions.
-
----
-
-## 🔗 Connect with Me  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kibutujr.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kibutu/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codegnerdev) [![Twitter](https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KibutuJR)  
-
-💡 I’m always open to **learning, collaborations, feedback, and reviews**. Let’s connect and grow together!  
+<p align="center">
+  <strong>Data Analyst • Data Engineer • Software Engineer</strong><br>
+  Turning <em>raw data</em> into <strong>real-world impact</strong> through intelligence, automation, and design.
+</p>
 
 ---
 
-## 🌟 What I’m Working On
-- 📊 **Data Analysis Projects** — exploratory data analysis (EDA), BI dashboards, and actionable insights  
-- 🛠️ **Data Engineering Projects** — ETL pipelines, data warehousing, and workflow automation  
-- 💻 **Software Engineering Apps** — modern web applications and scalable backend systems  
+<p align="center">
+  <a href="https://kibutujr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/fred-kibutu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@codegnerdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://x.com/KibutuJR"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🌍 About Me  
 
-### 🔹 Data Analysis  
-Python (Pandas, NumPy, Matplotlib, Seaborn) · R · SQL · Power BI · Tableau · Excel  
-
-### 🔹 Data Engineering  
-ETL/ELT Pipelines · Data Warehousing · Data Modeling · Workflow Automation · Cloud (AWS, Azure) · Apache Spark  
-
-### 🔹 Software Engineering  
-Java · Python · React · Node.js · Next.js · Tailwind CSS · Git/GitHub · REST APIs · C++
+🚀 I’m passionate about crafting **data-driven systems**, building **scalable architectures**, and turning **complex data** into **simple, powerful insights**.  
+💡 I love collaborating with forward-thinking developers, data teams, and innovators to **transform ideas into impactful solutions**.  
 
 ---
 
-![Cool People](https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat)
+### 🔥 What I’m Currently Working On  
+- 📊 **Data Analysis Projects** — EDA, Power BI dashboards, and actionable insights  
+- ⚙️ **Data Engineering** — ETL pipelines, data warehousing, and workflow automation  
+- 💻 **Software Engineering** — full-stack web applications and backend APIs  
 
 ---
 
-<div align="center">
+### 🧠 Tech Stack
 
-###  INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED •  
+#### 🩵 Data Analysis  
+`Python (Pandas, NumPy, Matplotlib, Seaborn)` · `R` · `SQL` · `Power BI` · `Tableau` · `Excel`
 
-</div>
+#### ⚙️ Data Engineering  
+`ETL/ELT` · `Data Warehousing` · `Data Modeling` · `Workflow Automation` · `Cloud (AWS, Azure)` · `Apache Spark`
+
+#### 💻 Software Engineering  
+`Java` · `Python` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `REST APIs` · `Git/GitHub` · `C++`
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kibutujr">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/KibutuJr">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ff4081?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
+  </a>
+</p>
+
+> Your support helps me create open-source tools, tutorials, and data projects that empower the developer community.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<h3 align="center">✨ INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED ✨</h3>
+
+<p align="center">
+  <a href="https://kibutujr.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+</p>
