@@ -79,6 +79,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"><br>
-  <code>console.log("Thanks for visiting 👋");</code>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="110"><br>
+  <code>// Initializing creativity...</code><br>
+  <code>// Loading data pipelines...</code><br>
+  <code>// Deployment complete 🚀</code>
 </p>
+
