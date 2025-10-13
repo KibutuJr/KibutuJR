@@ -56,14 +56,14 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KibutuJr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJr&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kibutujr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kibutujr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People" />
 </p>
 
 ---
@@ -77,11 +77,10 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="110"><br><br>
-  <samp>🧠 System: Kibutu Portfolio v2.0 initialized...</samp><br>
-  <samp>⚙️ Running modules → Data | Engineering | Design</samp><br>
-  <samp>✅ Status: Online and Innovating 🚀</samp>
+  <samp>$ echo "Thanks for visiting 👋"</samp>
 </p>
+
 
 
