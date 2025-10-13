@@ -77,11 +77,11 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="110"><br>
-  <code>// Initializing creativity...</code><br>
-  <code>// Loading data pipelines...</code><br>
-  <code>// Deployment complete 🚀</code>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="110"><br><br>
+  <samp>🧠 System: Kibutu Portfolio v2.0 initialized...</samp><br>
+  <samp>⚙️ Running modules → Data | Engineering | Design</samp><br>
+  <samp>✅ Status: Online and Innovating 🚀</samp>
 </p>
+
 
