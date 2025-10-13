@@ -1,13 +1,23 @@
-<h1 align="center">
+<h1 align="center" style="animation: fadeIn 2s ease-in-out;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave">
   Hi, I'm <span style="color:#00BFFF;">KibutuJR</span> 👨‍💻
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ever+since+I+was+young%2C+I+wanted+to+transform+unstructured+data+into+actionable+business+insights." alt="Typing Animation" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ever+since+I+was+young%2C+I+wanted+to+transform+unstructured+data+into+actionable+business+insights." 
+      alt="Typing Animation"
+    />
   </a>
 </p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 ---
 
