@@ -7,6 +7,8 @@
   <strong>Ever since I was young, I've always wanted to transform unstructured data into actionable business insights! 😊</strong>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People"> </p>
+
 <p align="center">
   <a href="https://kibutujr.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
