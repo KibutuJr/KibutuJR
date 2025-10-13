@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Kibutu</span></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm <span style="color:#00BFFF;">Kibutu</span> 👨‍💻
+</h1>
 
 <p align="center">
   <strong>Data Analyst • Data Engineer • Software Engineer</strong><br>
@@ -18,19 +21,20 @@
 
 ### 🌍 About Me  
 
-🚀 I’m passionate about crafting **data-driven systems**, building **scalable architectures**, and turning **complex data** into **simple, powerful insights**.  
-💡 I love collaborating with forward-thinking developers, data teams, and innovators to **transform ideas into impactful solutions**.  
+🚀 I’m passionate about building **data-driven systems**, designing **scalable architectures**, and transforming **complex data** into **actionable insights**.  
+💡 I thrive in spaces where **data, design, and code** intersect — crafting intelligent tools and clean user experiences.  
+🤝 Always open to collaboration, feedback, and creative problem-solving with like-minded innovators.  
 
 ---
 
-### 🔥 What I’m Currently Working On  
-- 📊 **Data Analysis Projects** — EDA, Power BI dashboards, and actionable insights  
-- ⚙️ **Data Engineering** — ETL pipelines, data warehousing, and workflow automation  
-- 💻 **Software Engineering** — full-stack web applications and backend APIs  
+### 🔥 What I’m Working On  
+- 📊 **Data Analysis Projects** — uncovering insights with EDA, Power BI dashboards, and storytelling with data  
+- ⚙️ **Data Engineering Pipelines** — designing ETL workflows, data warehouses, and cloud-driven automations  
+- 💻 **Software Engineering** — building full-stack applications and intelligent backend systems  
 
 ---
 
-### 🧠 Tech Stack
+### ⚡ Tech Stack  
 
 #### 🩵 Data Analysis  
 `Python (Pandas, NumPy, Matplotlib, Seaborn)` · `R` · `SQL` · `Power BI` · `Tableau` · `Excel`
@@ -43,19 +47,18 @@
 
 ---
 
-### ☕ Support My Work
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kibutujr">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/KibutuJr">
-    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ff4081?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
-  </a>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60">
 </p>
 
-> Your support helps me create open-source tools, tutorials, and data projects that empower the developer community.
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KibutuJr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJr&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -65,8 +68,16 @@
 
 ---
 
-<h3 align="center">✨ INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED ✨</h3>
+<h3 align="center">
+   INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED  
+</h3>
 
 <p align="center">
-  <a href="https://kibutujr.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100">
 </p>
