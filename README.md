@@ -83,8 +83,31 @@
 
   <br><br>
 
-  <samp><b>$ echo "</b>Thanks for visiting 👋<b>"</b></samp>
+  <samp>
+    <b>$ echo "</b>
+    <span class="typed-text">Thanks for visiting 👋</span>
+    <b>"</b>
+  </samp>
 
 </div>
 
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+.typed-text {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #00BFFF;
+  width: 0;
+  animation: typing 2.5s steps(30, end) forwards, blink .75s step-end infinite;
+}
+</style>
 
