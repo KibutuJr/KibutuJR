@@ -4,10 +4,12 @@
 </h1>
 
 <p align="center" style="font-size: 1.1rem; line-height: 1.6; animation: fadeIn 2s ease-in-out; color: #e0e0e0;">
-  <strong>Ever since I was young, I've always wanted to transform unstructured data into actionable business insights! 😊</strong>
+  <strong>Turning complex data into clear, actionable insights through code, cloud, and creativity.</strong>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People"> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People"> 
+</p>
 
 <p align="center">
   <a href="https://kibutujr.vercel.app/">
@@ -28,29 +30,30 @@
 
 ### 🌍 About Me  
 
-🚀 I’m passionate about building **data-driven systems**, designing **scalable architectures**, and transforming **complex data** into **actionable insights**.  
-💡 I thrive where **data, design, and code** intersect — crafting intelligent tools and clean user experiences.  
-🤝 Always open to collaboration, feedback, and creative problem-solving with like-minded innovators.  
+🚀 I’m a **Data Analyst**, **Data Engineer**, and **Software Engineer** focused on building **AI-powered**, **data-driven**, and **cloud-native** systems.  
+💡 I love solving complex problems through **data architecture**, **machine learning**, and **automation pipelines** that turn information into intelligence.  
+🤝 I’m always eager to collaborate, innovate, and deliver scalable solutions that drive real business impact.
 
 ---
 
 ### 🔥 What I’m Working On  
-- 📊 **Data Analysis Projects** — uncovering insights with EDA, Power BI dashboards, and data storytelling  
-- ⚙️ **Data Engineering Pipelines** — designing ETL workflows, warehouses, and cloud-driven automations  
-- 💻 **Software Engineering** — building full-stack apps and intelligent backend systems  
+- 📊 **Data Analysis & Visualization** — transforming raw data into insights using Power BI, Tableau, and advanced Python analytics  
+- ⚙️ **Data Engineering Pipelines** — building ETL/ELT workflows, dbt models, and streaming systems with Spark, Kafka, and Airflow  
+- ☁️ **Cloud & MLOps** — deploying on AWS and Azure with Docker, Kubernetes, and Databricks for robust, scalable performance  
+- 💻 **Software Engineering** — developing full-stack and data-centric apps with React, Next.js, Node.js, and REST APIs  
 
 ---
 
 ### ⚡ Tech Stack  
 
 #### 🩵 Data Analysis  
-`Python (Pandas, NumPy, Matplotlib, Seaborn)` · `R` · `SQL` · `Power BI` · `Tableau` · `Excel`
+`Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)` · `R` · `SQL` · `Power BI` · `Tableau` · `Excel`
 
 #### ⚙️ Data Engineering  
-`ETL/ELT` · `Data Warehousing` · `Data Modeling` · `Workflow Automation` · `Cloud (AWS, Azure)` · `Apache Spark`
+`ETL/ELT` · `Airflow` · `Spark` · `Kafka` · `Data Warehousing` · `dbt` · `Databricks` · `Snowflake` · `Cloud (AWS, Azure)`
 
 #### 💻 Software Engineering  
-`Java` · `Python` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `REST APIs` · `Git/GitHub` · `C++`
+`React` · `Next.js` · `Node.js` · `Java` · `Python` · `Tailwind CSS` · `REST APIs` · `Docker` · `K8s` · `Git/GitHub`
 
 ---
 
