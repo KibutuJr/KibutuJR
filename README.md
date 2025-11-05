@@ -110,6 +110,34 @@ Developing **full-stack** and **AI-driven** applications using **React**, **Node
 
 ---
 
+### 📝 Latest Blogs  
+
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://medium.com/@codegnerdev/from-raw-orders-to-real-insights-building-an-end-to-end-e-commerce-data-pipeline-with-snowflake-6258f593e0e9" target="_blank">
+    <img src="https://img.shields.io/badge/From%20Raw%20Orders%20to%20Real%20Insights-000000?style=for-the-badge&logo=medium&logoColor=white" alt="E-Commerce Data Pipeline Blog" />
+  </a>
+</p>
+
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://medium.com/@codegnerdev/building-an-end-to-end-data-pipeline-with-dbt-snowflake-aws-the-netflix-data-analysis-project-bc26c1825e52" target="_blank">
+    <img src="https://img.shields.io/badge/Netflix%20Data%20Pipeline%20Project-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Netflix Data Pipeline Blog" />
+  </a>
+</p>
+
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://medium.com/@codegnerdev/lloyds-banking-group-technology-engineering-project-c7267478e856" target="_blank">
+    <img src="https://img.shields.io/badge/Lloyds%20Banking%20Group%20Engineering-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Lloyds Banking Group Blog" />
+  </a>
+</p>
+
+<p align="center" style="margin-top: 25px; font-size: 1.1rem;">
+  <a href="https://medium.com/@codegnerdev" target="_blank" style="text-decoration: none; color: #00BFFF; font-weight: 600;">
+    ➤ Read more...
+  </a>
+</p>
+
+---
+
 <h3 align="center">
   INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED  
 </h3>
