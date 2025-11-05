@@ -82,9 +82,10 @@ Developing **full-stack** and **AI-driven** applications using **React**, **Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" title="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" title="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40" title="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Office_Excel_%282019–present%29.svg" width="40" title="Excel"/>
 </p>
 
 ---
@@ -94,9 +95,9 @@ Developing **full-stack** and **AI-driven** applications using **React**, **Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Airflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="40" title="Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="40" title="dbt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" title="Snowflake"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" title="Databricks"/>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="40" title="dbt"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-3.svg" width="40" title="Snowflake"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40" title="Databricks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
 </p>
