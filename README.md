@@ -41,23 +41,83 @@
 ---
 
 ### 🔥 What I’m Working On  
-- **Data Analysis & Visualization** — transforming raw data into insights using Power BI, Tableau, and advanced Python analytics  
-- **Data Engineering Pipelines** — building ETL/ELT workflows, dbt models, and streaming systems with Spark, Kafka, and Airflow  
-- **Cloud & MLOps** — deploying on AWS and Azure with Docker, Kubernetes, and Databricks for robust, scalable performance  
-- **Software Engineering** — developing full-stack and data-centric apps with React, Next.js, Node.js, and REST APIs  
 
+#### 🧠 **Data Analysis & Visualization**  
+Transforming raw data into clear insights using **Python, SQL, Power BI**, and **Tableau**.  
+- 📊 [SQL Exploratory Data Analysis Project](https://github.com/KibutuJr/SQL-Exploratory-Data-Analysis-Project) — uncovering trends and patterns through structured SQL queries.  
+- 📈 [Quantium Data Analytics Project](https://github.com/KibutuJr/Quantium-Data-Analytics) — leveraging Python for customer segmentation, performance metrics, and actionable insights.  
+
+---
+
+#### ⚙️ **Data Engineering Pipelines**  
+Designing and building **scalable ETL/ELT workflows**, **data models**, and **real-time pipelines** for intelligent automation.  
+- 🎬 [Netflix Data Analysis End-to-End Project (AWS S3 → Snowflake → dbt)](https://github.com/KibutuJr/Netflix-dbt-project) — modern cloud data pipeline integrating Snowflake and dbt for analytics.  
+- 🔥 [End-to-End Data Engineering Project — PySpark, Databricks & dbt](https://github.com/KibutuJr/pyspark-dbt-project) — large-scale data processing and transformation with PySpark and Databricks.  
+
+---
+
+#### ☁️ **Cloud & MLOps**  
+Deploying **cloud-native** solutions with **AWS**, **Docker**, and **Kubernetes**, ensuring high performance and scalability.  
+- 🚀 [AWS ETL Pipeline](https://github.com/KibutuJr/AWS-ETL-Pipeline) — automated cloud data pipeline from ingestion to transformation and visualization.  
+- 🛒 [End-to-End E-Commerce Data Pipeline](https://github.com/KibutuJr/End-to-end-E-Commerce-Data-Engineering-Project) — orchestrating data flow for e-commerce analytics using AWS and Airflow.  
+
+---
+
+#### 💻 **Software Engineering**  
+Developing **full-stack** and **AI-driven** applications using **React**, **Node.js**, and **Python**, bridging data with intelligent user experiences.  
+- 🧬 [Breast Cancer Machine Learning Predictor App](https://github.com/KibutuJr/Breast-Cancer-Machine-Learning-Predictor) — empowering early detection through predictive ML modeling.  
+- 🏢 [Hewlett Packard Enterprise – Software Engineering Project](https://github.com/KibutuJr/Hewlett-Packard-Enterprise---Software-Engineering-Project) — building robust and scalable solutions demonstrating enterprise-grade software craftsmanship.  
+ 
 ---
 
 ### ⚡ Tech Stack  
 
+<div align="center">
+
 #### 🩵 Data Analysis  
-`Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)` · `R` · `SQL` · `Power BI` · `Tableau` · `Excel`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" title="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" title="Excel"/>
+</p>
+
+---
 
 #### ⚙️ Data Engineering  
-`ETL/ELT` · `Airflow` · `Spark` · `Kafka` · `Data Warehousing` · `dbt` · `Databricks` · `Snowflake` · `Cloud (AWS, Azure)`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="40" title="Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="40" title="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" title="Snowflake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" title="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
+</p>
+
+---
 
 #### 💻 Software Engineering  
-`React` · `Next.js` · `Node.js` · `Java` · `Python` · `Tailwind CSS` · `REST APIs` · `Docker` · `K8s` · `Git/GitHub`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+</p>
+
+</div>
 
 ---
 
