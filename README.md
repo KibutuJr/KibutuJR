@@ -142,6 +142,8 @@ Developing **full-stack** and **AI-driven** applications using **React**, **Node
   INSIGHT-DRIVEN • SYSTEM-BUILT • CODE-CRAFTED  
 </h3>
 
+---
+
 ### 📊 GitHub Insights  
 
 <p align="center">
@@ -157,6 +159,10 @@ Developing **full-stack** and **AI-driven** applications using **React**, **Node
   </a>
 </p>
 
+---
+
 <p align="center">
   <samp>$ echo "Thanks for stopping by!"</samp>
 </p>
+
+---
