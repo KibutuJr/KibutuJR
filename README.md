@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="KibutuJR Banner" width="100%">
+</p>
+
 <h1 align="center" style="animation: fadeIn 2s ease-in-out;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave">
   Hi, I'm <span style="color:#00BFFF;">KibutuJR</span> 👨‍💻
@@ -11,18 +15,18 @@
   <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People"> 
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://kibutujr.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" height="28">
   </a>
   <a href="https://www.linkedin.com/in/fred-kibutu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
   </a>
   <a href="https://medium.com/@codegnerdev">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="28">
   </a>
   <a href="https://x.com/KibutuJR">
-    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="28">
   </a>
 </p>
 
