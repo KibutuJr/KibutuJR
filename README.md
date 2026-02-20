@@ -44,13 +44,25 @@ I specialize in converting loosely defined business problems into structured, pr
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Active Product Builds
 
-### 🟢 UGC Project  
-An evolving AI-powered system focused on intelligent data workflows, automation, and scalable analytics infrastructure.
+### 🧠 Audux AI  
+AI-driven backend system focused on intelligent data processing, workflow automation, and scalable infrastructure.  
+Built around modern server architecture, database orchestration, and cloud deployment pipelines.
 
-### 🟢 [Radiantor](https://radiantor.vercel.app/) 
-A modern, performance-oriented platform designed around cloud-native architecture, analytics integration, and real-time insights.
+### 🟢 UGC Platform (In Development)  
+A structured content intelligence system designed to manage, optimize, and automate user-generated content workflows using data analytics and AI-enhanced processing.
+
+> Focus: data pipelines, automation logic, scalable backend design.
+
+---
+
+### 🌐 [Radiantor](https://radiantor.vercel.app/)  
+A production-ready, cloud-deployed platform engineered for performance, analytics integration, and modern UI/UX delivery.
+
+> Focus: frontend architecture, deployment optimization, and real-time analytics integration.
+
+---
 
 > Both projects reflect my transition toward building full production-grade data and software systems.
 
@@ -62,47 +74,37 @@ A modern, performance-oriented platform designed around cloud-native architectur
 
 ### 🧠 Data Analysis & Advanced Analytics
 
-* **SQL Exploratory Data Analysis**  
-  https://github.com/KibutuJr/SQL-Exploratory-Data-Analysis-Project  
+* [**SQL Exploratory Data Analysis**](https://github.com/KibutuJr/SQL-Exploratory-Data-Analysis-Project)  
   → Trend discovery, cohort logic, structured EDA workflows  
 
-* **Quantium Analytics Project**  
-  https://github.com/KibutuJr/Quantium-Data-Analytics  
+* [**Quantium Analytics Project**](https://github.com/KibutuJr/Quantium-Data-Analytics)  
   → Customer segmentation, behavioral modeling, Python analytics  
 
 ---
 
 ### ⚙️ Modern Data Engineering
 
-* **Netflix Data Pipeline (AWS → Snowflake → dbt)**  
-  https://github.com/KibutuJr/Netflix-dbt-project  
+* [**Netflix Data Pipeline (AWS → Snowflake → dbt)**](https://github.com/KibutuJr/Netflix-dbt-project)  
   → End-to-end cloud warehouse transformation architecture  
 
-* **PySpark + dbt Pipeline**  
-  https://github.com/KibutuJr/pyspark-dbt-project  
+* [**PySpark + dbt Pipeline**](https://github.com/KibutuJr/pyspark-dbt-project)  
   → Distributed processing & scalable transformation layers  
 
-* **E-Commerce Data Engineering Project**  
-  https://github.com/KibutuJr/End-to-end-E-Commerce-Data-Engineering-Project  
+* [**E-Commerce Data Engineering Project**](https://github.com/KibutuJr/End-to-end-E-Commerce-Data-Engineering-Project)  
   → Airflow orchestration + AWS analytics stack  
 
 ---
 
 ### ☁️ Cloud & Applied ML
 
-* **AWS ETL Pipeline**  
-  https://github.com/KibutuJr/AWS-ETL-Pipeline  
+* [**AWS ETL Pipeline**](https://github.com/KibutuJr/AWS-ETL-Pipeline)  
   → Automated ingestion, transformation & BI-ready outputs  
 
-* **Breast Cancer ML Predictor App**  
-  https://github.com/KibutuJr/Breast-Cancer-Machine-Learning-Predictor  
+* [**Breast Cancer ML Predictor App**](https://github.com/KibutuJr/Breast-Cancer-Machine-Learning-Predictor)  
   → Production-ready ML classification app  
 
-* **Enterprise Software Engineering Project (HPE)**  
-  https://github.com/KibutuJr/Hewlett-Packard-Enterprise---Software-Engineering-Project  
+* [**Enterprise Software Engineering Project (HPE)**](https://github.com/KibutuJr/Hewlett-Packard-Enterprise---Software-Engineering-Project)  
   → Full-stack enterprise solution architecture  
-
-</div>
 
 ---
 
@@ -116,6 +118,8 @@ Airflow • PySpark • Kafka • dbt • Snowflake • Databricks • AWS
 
 ### 💻 Software Engineering
 React • Next.js • Node.js • Docker • Kubernetes • GitHub Actions
+
+</div>
 
 ---
 
