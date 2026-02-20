@@ -146,8 +146,19 @@ React • Next.js • Node.js • Docker • Kubernetes • GitHub Actions
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KibutuJR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" height="160px" />
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <!-- GitHub Contributions / Commits Badge -->
+  <img src="https://img.shields.io/github/commit-activity/m/KibutuJR?style=for-the-badge&color=00BFFF" alt="Commit Activity" />
 </p>
 
 ---
