@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Turning complex data into clear, actionable insights through <strong>code</strong>, <strong>cloud</strong>, and <strong>creativity</strong>.</em>
+  <em>Building AI-powered, cloud-native and data-driven systems that transform complexity into clarity.</em>
 </p>
 
 <p align="center">
@@ -15,46 +15,92 @@
 </p>
 
 <p align="center">
-  <a href="https://kibutujr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fred-kibutu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@codegnerdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://x.com/KibutuJR"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-kibutujr.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fred-kibutu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@codegnerdev">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://x.com/KibutuJR">
+    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m a **Data Analyst, Data Engineer & Software Engineer**, building **AI-powered**, **data-driven**, and **cloud-native** systems.
-I thrive on transforming **raw data** into **actionable insights** and **automation pipelines** that make businesses smarter.
+I’m a **Data Analyst, Data Engineer & Software Engineer** operating at the intersection of:
 
-> 🤝 Always eager to collaborate, innovate, and deliver solutions that scale.
+- 📊 Product & Growth Analytics  
+- ⚙️ Scalable Data Engineering  
+- ☁️ Cloud Architecture  
+- 🤖 Applied Machine Learning  
+
+I specialize in converting loosely defined business problems into structured, production-ready data systems.
 
 ---
 
-## 🔥 What I’m Building
+## 🚧 Currently Building
+
+### 🟢 UGC Project  
+An evolving AI-powered system focused on intelligent data workflows, automation, and scalable analytics infrastructure.
+
+### 🟢 [Radiantor](https://radiantor.vercel.app/) 
+A modern, performance-oriented platform designed around cloud-native architecture, analytics integration, and real-time insights.
+
+> Both projects reflect my transition toward building full production-grade data and software systems.
+
+---
+
+## 🔥 Featured Projects
 
 <div align="center">
 
-### 🧠 Data Analysis & Visualization
+### 🧠 Data Analysis & Advanced Analytics
 
-* **SQL EDA Project**: [GitHub](https://github.com/KibutuJr/SQL-Exploratory-Data-Analysis-Project) – Uncover trends and patterns with SQL.
-* **Quantium Analytics**: [GitHub](https://github.com/KibutuJr/Quantium-Data-Analytics) – Python-driven customer segmentation & insights.
+* **SQL Exploratory Data Analysis**  
+  https://github.com/KibutuJr/SQL-Exploratory-Data-Analysis-Project  
+  → Trend discovery, cohort logic, structured EDA workflows  
 
-### ⚙️ Data Engineering Pipelines
+* **Quantium Analytics Project**  
+  https://github.com/KibutuJr/Quantium-Data-Analytics  
+  → Customer segmentation, behavioral modeling, Python analytics  
 
-* **Netflix Data Analysis (AWS → Snowflake → dbt)**: [GitHub](https://github.com/KibutuJr/Netflix-dbt-project) – Modern cloud data pipeline.
-* **PySpark & dbt Pipeline**: [GitHub](https://github.com/KibutuJr/pyspark-dbt-project) – Scalable data transformation workflows.
+---
 
-### ☁️ Cloud & MLOps
+### ⚙️ Modern Data Engineering
 
-* **AWS ETL Pipeline**: [GitHub](https://github.com/KibutuJr/AWS-ETL-Pipeline) – Automated ingestion → transformation → visualization.
-* **E-Commerce Data Pipeline**: [GitHub](https://github.com/KibutuJr/End-to-end-E-Commerce-Data-Engineering-Project) – Orchestrated AWS & Airflow analytics.
+* **Netflix Data Pipeline (AWS → Snowflake → dbt)**  
+  https://github.com/KibutuJr/Netflix-dbt-project  
+  → End-to-end cloud warehouse transformation architecture  
 
-### 💻 Software Engineering
+* **PySpark + dbt Pipeline**  
+  https://github.com/KibutuJr/pyspark-dbt-project  
+  → Distributed processing & scalable transformation layers  
 
-* **Breast Cancer ML Predictor App**: [GitHub](https://github.com/KibutuJr/Breast-Cancer-Machine-Learning-Predictor) – AI-powered early detection.
-* **HPE Software Engineering Project**: [GitHub](https://github.com/KibutuJr/Hewlett-Packard-Enterprise---Software-Engineering-Project) – Enterprise-grade full-stack solution.
+* **E-Commerce Data Engineering Project**  
+  https://github.com/KibutuJr/End-to-end-E-Commerce-Data-Engineering-Project  
+  → Airflow orchestration + AWS analytics stack  
+
+---
+
+### ☁️ Cloud & Applied ML
+
+* **AWS ETL Pipeline**  
+  https://github.com/KibutuJr/AWS-ETL-Pipeline  
+  → Automated ingestion, transformation & BI-ready outputs  
+
+* **Breast Cancer ML Predictor App**  
+  https://github.com/KibutuJr/Breast-Cancer-Machine-Learning-Predictor  
+  → Production-ready ML classification app  
+
+* **Enterprise Software Engineering Project (HPE)**  
+  https://github.com/KibutuJr/Hewlett-Packard-Enterprise---Software-Engineering-Project  
+  → Full-stack enterprise solution architecture  
 
 </div>
 
@@ -62,54 +108,38 @@ I thrive on transforming **raw data** into **actionable insights** and **automat
 
 ## ⚡ Tech Stack
 
+### 📊 Data & Analytics
+Python • Pandas • NumPy • SQL • R • Power BI • Tableau • Matplotlib • Seaborn
+
+### ⚙️ Data Engineering
+Airflow • PySpark • Kafka • dbt • Snowflake • Databricks • AWS
+
+### 💻 Software Engineering
+React • Next.js • Node.js • Docker • Kubernetes • GitHub Actions
+
+---
+
+## 📝 Latest Publications (Medium)
+
 <div align="center">
 
-### Data Analysis
+<a href="https://medium.com/@codegnerdev/from-raw-orders-to-real-insights-building-an-end-to-end-e-commerce-data-pipeline-with-snowflake-6258f593e0e9" target="_blank">
+  <img src="https://img.shields.io/badge/From%20Raw%20Orders%20to%20Insights-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=plotly\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+<a href="https://medium.com/@codegnerdev/building-an-end-to-end-data-pipeline-with-dbt-snowflake-aws-the-netflix-data-analysis-project-bc26c1825e52" target="_blank">
+  <img src="https://img.shields.io/badge/Netflix%20Data%20Pipeline-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-### Data Engineering
-
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-### Software Engineering
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<a href="https://medium.com/@codegnerdev/lloyds-banking-group-technology-engineering-project-c7267478e856" target="_blank">
+  <img src="https://img.shields.io/badge/Lloyds%20Engineering%20Project-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 📝 Latest Blogs
-
-<div align="center">
-  <a href="https://medium.com/@codegnerdev/from-raw-orders-to-real-insights-building-an-end-to-end-e-commerce-data-pipeline-with-snowflake-6258f593e0e9" target="_blank"><img src="https://img.shields.io/badge/E-Commerce%20Data%20Pipeline-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://medium.com/@codegnerdev/building-an-end-to-end-data-pipeline-with-dbt-snowflake-aws-the-netflix-data-analysis-project-bc26c1825e52" target="_blank"><img src="https://img.shields.io/badge/Netflix%20Pipeline%20Project-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://medium.com/@codegnerdev/lloyds-banking-group-technology-engineering-project-c7267478e856" target="_blank"><img src="https://img.shields.io/badge/Lloyds%20Banking%20Group-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px" />
@@ -119,13 +149,11 @@ I thrive on transforming **raw data** into **actionable insights** and **automat
 ---
 
 <p align="center">
-  <a href="https://kibutujr.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Website-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Live%20Site-%2300BFFF?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <samp>$ echo "Thanks for stopping by!"</samp>
+  <samp>Building systems. Scaling intelligence. Shipping impact.</samp>
 </p>
-
----
-
-
