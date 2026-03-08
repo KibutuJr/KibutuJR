@@ -307,12 +307,17 @@ https://medium.com/@codegnerdev
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJR&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="160px"/>
-</p>
+
 
 ## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
 <samp>Building data systems, intelligent software, and financial technology.</samp>
