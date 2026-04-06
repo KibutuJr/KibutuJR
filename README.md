@@ -303,15 +303,6 @@ https://medium.com/@codegnerdev
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJR&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="160px"/>
-</p>
-
----
-
 ## ☕ Support
 
 If you’ve explored my work, learned something new, or found any of my projects helpful — you can support me here.
@@ -321,6 +312,15 @@ I’m constantly building, experimenting, and sharing what I learn. Your support
 Even a small contribution makes a real difference 🙌
 
 [![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=fredkibutu@gmail.com)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJR&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="160px"/>
+</p>
 
 ---
 
