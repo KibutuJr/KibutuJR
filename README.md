@@ -311,7 +311,7 @@ I’m constantly building, experimenting, and sharing what I learn. Your support
 
 Even a small contribution makes a real difference 🙌
 
-[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=fredkibutu@gmail.com)
+[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/fredkibutu)
 
 ---
 
