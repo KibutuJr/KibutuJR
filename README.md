@@ -303,18 +303,6 @@ https://medium.com/@codegnerdev
 
 ---
 
-## ☕ Support
-
-If you’ve explored my work, learned something new, or found any of my projects helpful — you can support me here.
-
-I’m constantly building, experimenting, and sharing what I learn. Your support helps me dedicate more time to creating impactful projects and open-source contributions.
-
-Even a small contribution makes a real difference 🙌
-
-[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/fredkibutu)
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
