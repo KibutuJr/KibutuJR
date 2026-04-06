@@ -310,6 +310,20 @@ https://medium.com/@codegnerdev
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJR&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="160px"/>
 </p>
 
+---
+
+## ☕ Support
+
+If you’ve explored my work, learned something new, or found any of my projects helpful — you can support me here.
+
+I’m constantly building, experimenting, and sharing what I learn. Your support helps me dedicate more time to creating impactful projects and open-source contributions.
+
+Even a small contribution makes a real difference 🙌
+
+[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=fredkibutu@gmail.com)
+
+---
+
 ## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
