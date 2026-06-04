@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>Data Analyst • Data Engineer • Software Engineer | MSc Financial Engineering (MScFE) Candidate</strong>
+  <strong>Data Analyst • Data Engineer • Software Engineer | Master of Science in Financial Engineering (MScFE) Candidate</strong>
 </p>
 
 <p align="center">
