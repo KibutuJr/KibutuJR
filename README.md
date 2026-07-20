@@ -13,7 +13,11 @@ Master of Science in Financial Engineering (MScFE) Candidate
 </p>
 
 <p align="center">
-[LinkedIn](https://www.linkedin.com/in/fred-kibutu/) • [X](https://x.com/KibutuJR) • [Email](mailto:Kibutujr@gmail.com)
+  <a href="https://www.linkedin.com/in/fred-kibutu/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://x.com/KibutuJR">X</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:Kibutujr@gmail.com">Email</a>
 </p>
 
 <p align="center">
