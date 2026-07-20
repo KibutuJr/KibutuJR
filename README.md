@@ -21,7 +21,7 @@ Master of Science in Financial Engineering (MScFE) Candidate
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KibutuJR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KibutuJR&label=Cool%20People&color=0e75b6&style=flat" alt="Cool People"/>
 </p>
 
 ---
