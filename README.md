@@ -74,8 +74,12 @@ Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering 
 # 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KibutuJR&theme=react&hide_border=true&background=0D1117" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=KibutuJR&theme=react&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KibutuJR&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 ---
