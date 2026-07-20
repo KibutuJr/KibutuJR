@@ -12,8 +12,9 @@ Data Engineer • Data Analyst • Software Engineer
 Master of Science in Financial Engineering (MScFE) Candidate
 </p>
 
+<p align="center">
 [LinkedIn](https://www.linkedin.com/in/fred-kibutu/) • [X](https://x.com/KibutuJR) • [Email](mailto:Kibutujr@gmail.com)
-
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KibutuJR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
