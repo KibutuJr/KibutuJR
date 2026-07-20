@@ -2,35 +2,18 @@
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="KibutuJR Banner" width="100%">
 </p>
 
-<h1 align="center">
-  KibutuJR 👋
-</h1>
+<h1 align="center">Fred Kibutu</h1>
 
 <p align="center">
-  <strong>Data Analyst • Data Engineer • Software Engineer | Master of Science in Financial Engineering (MScFE) Candidate</strong>
+Data Engineer • Data Analyst • Software Engineer
 </p>
 
 <p align="center">
-  I build <strong>scalable data systems, AI-powered products, and financial intelligence platforms</strong> that turn complex data into real-world impact.
+Master of Science in Financial Engineering (MScFE) Candidate
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KibutuJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
-  <a href="https://kibutujr.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fred-kibutu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://medium.com/@codegnerdev">
-    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://x.com/KibutuJR">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=KibutuJR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -71,14 +54,29 @@ Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering 
 ➤ Connect with me:
 [LinkedIn](https://www.linkedin.com/in/fred-kibutu/) • [X](https://x.com/KibutuJR) • [Email](mailto:Kibutujr@gmail.com)
 
-# 📊 GitHub Activity
+<p align="center">
+  <a href="https://kibutujr.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fred-kibutu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@codegnerdev">
+    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://x.com/KibutuJR">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
-# 📊 GitHub Activity
-
+# GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KibutuJR&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=KibutuJR&theme=react&hide_border=true" height="170"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KibutuJR&layout=compact&theme=react&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KibutuJR&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 ---
