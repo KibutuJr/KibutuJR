@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="KibutuJR Banner" width="100%">
 </p>
 
-<h1 align="center">Fred Kibutu</h1>
+<h1 align="center">KibutuJR</h1>
 
 <p align="center">
 Data Engineer • Data Analyst • Software Engineer
@@ -11,6 +11,9 @@ Data Engineer • Data Analyst • Software Engineer
 <p align="center">
 Master of Science in Financial Engineering (MScFE) Candidate
 </p>
+
+[LinkedIn](https://www.linkedin.com/in/fred-kibutu/) • [X](https://x.com/KibutuJR) • [Email](mailto:Kibutujr@gmail.com)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KibutuJR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -52,7 +55,6 @@ Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering 
 </p>
 
 ➤ Connect with me:
-[LinkedIn](https://www.linkedin.com/in/fred-kibutu/) • [X](https://x.com/KibutuJR) • [Email](mailto:Kibutujr@gmail.com)
 
 <p align="center">
   <a href="https://kibutujr.vercel.app/">
