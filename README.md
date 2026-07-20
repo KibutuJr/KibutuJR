@@ -9,7 +9,7 @@ Data Engineer • Data Analyst • Software Engineer
 </p>
 
 <p align="center">
-Master of Science in Financial Engineering (MScFE) Candidate
+➤ Master of Science in Financial Engineering (MScFE) Candidate
 </p>
 
 <p align="center">
@@ -28,20 +28,19 @@ Master of Science in Financial Engineering (MScFE) Candidate
 
 ➤ Check out my [Portfolio](https://kibutujr.vercel.app/)
 
-➤ MSc Financial Engineering Candidate
-
-➤ Data Engineer • Data Analyst • Software Engineer
-
 ➤ Currently building:
-Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering Projects
+Codegner Dev • Vibe Engineering Projects • End-to-End Data Platforms
 
 ➤ Read my blogs: [Medium](https://medium.com/@codegnerdev)
 
-➤ Featured projects:
-- [Annex Data Engineering](https://github.com/KibutuJr/Annex_DE_FredKibutu.git)
-- [Patient Vital Monitoring Data Engineering Project (GCP)](https://github.com/KibutuJr/Patient-Vital-Monitoring-Healthcare-Data-Engineering-Project.git)
-- [Hotel Booking Analytics (Snowflake)](https://github.com/KibutuJr/End-to-End-Hotel-Booking-Data-Engineering-Project-in-Snowflake.git)
-- [J.P. Morgan Quantitative Research Program](https://github.com/KibutuJr/Quantitative-Research-JPMorgan-Chase-Co.git)
+➤ Featured Projects
+
+| Project | Domain |
+|---------|--------|
+| [Annex Data Engineering](https://github.com/KibutuJr/Annex_DE_FredKibutu) | Modern Data Engineering |
+| [Patient Vital Monitoring](https://github.com/KibutuJr/Patient-Vital-Monitoring-Healthcare-Data-Engineering-Project) | Google Cloud Platform |
+| [Hotel Booking Analytics](https://github.com/KibutuJr/End-to-End-Hotel-Booking-Data-Engineering-Project-in-Snowflake) | Snowflake & Analytics |
+| [J.P. Morgan Quantitative Research](https://github.com/KibutuJr/Quantitative-Research-JPMorgan-Chase-Co) | Quantitative Finance |
 
 ➤ Technologies
 
@@ -100,6 +99,10 @@ Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering 
   </a>
 </p>
 
+<hr>
+
 <p align="center">
-<samp>Building products at the intersection of software, data, and intelligence.</samp>
+<samp>
+Building products at the intersection of software, data, and intelligence.
+</samp>
 </p>
