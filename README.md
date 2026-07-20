@@ -101,5 +101,5 @@ Agency Website (Codegner Dev) • Vibe Engineering Project • Data Engineering 
 </p>
 
 <p align="center">
-<samp>Building scalable data systems • AI products • financial technology</samp>
+<samp>Building products at the intersection of software, data, and intelligence.</samp>
 </p>
