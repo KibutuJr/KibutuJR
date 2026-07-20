@@ -29,7 +29,7 @@ Data Engineer • Data Analyst • Software Engineer
 ➤ Check out my [Portfolio](https://kibutujr.vercel.app/)
 
 ➤ Currently building:
-Codegner Dev • Vibe Engineering Projects • End-to-End Data Platforms
+Codegner Dev • Data and Software Projects • End-to-End Data Platforms
 
 ➤ Read my blogs: [Medium](https://medium.com/@codegnerdev)
 
